@@ -1,0 +1,34 @@
+/* A deferencia del valor static y relative un valor absolute puede colocarlo en cualquier lugar
+    y no afectará ni se verá afectado por ningúns otro elemento del flujo. Solo dile dónde pegar y se pega */
+#box_1 {
+    background-color: #ee3e64;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+}
+#box_2 {
+    background-color: #44accf;;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+}
+#box_3 {
+    background-color: #b7d84b;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+}
+#box_4 {
+    background-color: #ebde52;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+}

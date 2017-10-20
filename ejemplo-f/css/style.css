@@ -1,0 +1,43 @@
+#box_1 {
+    background-color: #ee3e64;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+}
+#box_2 {
+    background-color: #44accf;;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+}
+#box_3 {
+    background-color: #b7d84b;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+}
+#box_4 {
+    background-color: #ebde52;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+}
+/* centrar el cuadrado pequeno cuadrado dentro de su padre */
+.orange {
+    background-color: #f95b34;
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    width: 40px;
+    height: 40px;
+    left: 50%;
+    margin-left: -20px;
+}

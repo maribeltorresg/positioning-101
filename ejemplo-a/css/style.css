@@ -1,0 +1,19 @@
+/* utilizando la position static */
+#box_1 {
+    background-color: #ee3e64;
+    position: static;
+    width: 200px;
+    height: 200px;
+}
+#box_2 {
+    background-color: #44accf;
+    position: static; 
+    width: 200px;
+    height: 200px;
+}
+#box_3 {
+    background-color: #b7d84b;
+    position: static;
+    width: 200px;
+    height: 200px;
+}
